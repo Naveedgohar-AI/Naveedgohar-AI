@@ -274,7 +274,3 @@ and intelligent automation systems.
 📧 **Email:** <naveedgohar59@gmail.com>\
 📍 **Location:** Dubai, United Arab Emirates
 
-------------------------------------------------------------------------
-
-`<sub>`{=html}Profile content based on my professional experience and
-technical background.`</sub>`{=html}
